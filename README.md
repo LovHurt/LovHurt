@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Alican and I'm a Full Stack Developer, from Türkiye</h2>
+<h2 align="left">Hi 👋! My name is Can and I'm a Full Stack Developer, from Türkiye</h2>
 
 ###
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+What I Use 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -61,6 +63,8 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+How to Reach Me
 
 <div align="left">
 <a href="https://discord.com/users/LoveHurt#3152" >
