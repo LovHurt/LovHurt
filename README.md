@@ -76,6 +76,9 @@ Here are some ideas to get you started:
 <a href="mailto:alicandagidir@hotmail.com" >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
 </a>
+  <a href="https://medium.com/@alicandagidir">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+</a>
 </div>
 
 ###
