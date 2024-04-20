@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div style="margin-right: 10px;">
+<div align="center">
   <img src="https://profile-counter.glitch.me/LovHurt/count.svg?" />
 </div>
 
