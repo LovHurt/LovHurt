@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 ###
 
+<h3>Where to find me</h3>
+
 <div align="left">
 <a href="https://discord.com/users/LoveHurt#3152" >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
