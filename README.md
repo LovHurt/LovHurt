@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ###
 
-What I Use 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -63,8 +61,6 @@ What I Use
 </div>
 
 ###
-
-How to Reach Me
 
 <div align="left">
 <a href="https://discord.com/users/LoveHurt#3152" >
