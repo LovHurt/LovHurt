@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Can and I'm a Full Stack Developer, from Türkiye</h2>
+<h2 align="left">Hi 👋! My name is Can and I'm a Software Developer, from Türkiye</h2>
 
 ###
 
