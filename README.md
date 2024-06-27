@@ -76,12 +76,18 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/LoveHurt#3152" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" width="52" height="40" alt="discord logo" />
 </a>  
+    <img width="12" />
+
   <a href="https://www.linkedin.com/in/alicandagidir" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo" />
 </a>
+  <img width="12" />
+
 <a href="mailto:alicandagidir@hotmail.com" >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
 </a>
+  <img width="12" />
+
   <a href="https://medium.com/@alicandagidir">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
 </a>
